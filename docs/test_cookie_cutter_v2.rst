@@ -12,6 +12,14 @@ test\_cookie\_cutter\_v2.cli module
     :undoc-members:
     :show-inheritance:
 
+test\_cookie\_cutter\_v2.hello\_world module
+--------------------------------------------
+
+.. automodule:: test_cookie_cutter_v2.hello_world
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 test\_cookie\_cutter\_v2.test\_cookie\_cutter\_v2 module
 --------------------------------------------------------
 
